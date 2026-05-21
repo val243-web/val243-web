@@ -18,15 +18,16 @@ Voici les competences que j'ai :
 ### 🛠️ Technologies & Outils
 
 <!-- Frontend -->
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![React](https://shields.io)
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
 
 <!-- Backend & Frameworks -->
-![NodeJS](https://shields.io)
-![Express.js](https://shields.io)
-![Java](https://shields.io)
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
 
 <!-- Bases de données -->
-![PostgreSQL](https://shields.io)
-![MySQL](https://shields.io)
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+
