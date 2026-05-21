@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, je suis valery et je suis un passioné du developpement web, mobile et jeux vidéos
 
 <!--
-**val243-web/val243-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**val243-web/val243-web** ce rpertoire est spécial parce que c'est ici où je me présentes et presentes mes competences
 
-Here are some ideas to get you started:
+Voici les competences que j'ai :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- HTML5
+-CSS3
+-JAVASCRIPT
+-REACT JS
+-NODE JS
+-EXPRESS JS
+-JAVA
+-POSTGRESQL
+-MYSQL
 -->
